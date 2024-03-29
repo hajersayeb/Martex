@@ -1,6 +1,6 @@
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import NavBar from "./components/navBar";
+import NavBar from "./components/navBar/NavBar";
 import Acceuil from "./pages/Acceuil";
 import About from "./pages/About";
 import Features from "./pages/Features";

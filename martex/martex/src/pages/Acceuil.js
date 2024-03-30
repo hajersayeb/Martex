@@ -1,4 +1,4 @@
-import React from 'react';
+
 import 'bootstrap/dist/css/bootstrap.css';
 import '../pages/styles/Acceuil.css';
 const Acceuil = () => {
@@ -16,6 +16,10 @@ sapien ociis sagittis sapien tempor a volute ligula and aliquet tortor
 <button type="button" class="btn btn-danger">Get start for free</button>
 
 
+               </div>
+               <div className='col-6'>
+
+            
                </div>
             </div>
         </div>

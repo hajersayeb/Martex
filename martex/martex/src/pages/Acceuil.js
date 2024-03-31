@@ -1,4 +1,3 @@
-
 import 'bootstrap/dist/css/bootstrap.css';
 import '../pages/styles/Acceuil.css';
 const Acceuil = () => {

@@ -1,7 +1,9 @@
 import 'bootstrap/dist/css/bootstrap.css';
-import loginImg from "../pages/images/tree.jpg";
+import loginImg from "../pages/images/office.png";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUserLock } from '@fortawesome/free-solid-svg-icons';
+import '../pages/styles/Login.css';
+
 const Login = () => {
 
     return(

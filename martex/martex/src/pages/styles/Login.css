@@ -1,18 +1,12 @@
 body{
-    background-color: rgb(202, 150, 250);
+    background-color: rgb(219, 192, 243);
 }
 img{
     margin-top: 90px;
 }
 
-.shapes{
-max-width: 400px;
-  padding: 20px; 
-  background-color: #9b6323; 
-  border-radius: 8px; 
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
-}
 form{
+   
      margin-top:50px ;
     height: 520px;
     width: 400px;
